@@ -1,1 +1,1 @@
-# alpha-scan
+alphaesAI - data science interns

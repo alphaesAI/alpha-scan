@@ -1,0 +1,51 @@
+prompt engineering
+~~~~~~ ~~~~~~~~~~~
+
+question, asking, speaking == prompt
+build == engineering
+
+way of communication between ai and human
+
+mathematics:
+
+
+rule based AI - 
+machine learning - algorithms, scikit learn, matplotlib, seaborn
+deep learning - neural networks, RNN, CNN, LSTM
+generative AI - tokenization, prompt engineering, transformers, models, fastapi.
+
+
+
+7 personas:
+
+Tone
+Person
+Format
+Task
+Context
+Example
+Scene or Situation
+
+human: within 15 minutes i have a seminar. so please help me with this. you're strict teacher, teach me about modular design pattern in python in with bullet points. 
+
+generate a document for an summer internship. make sure the document should be 30 pages.
+
+list out the new films released in this month. like, 
+** first film
+( second film )
+
+
+modular design pattern in python.
+elucidate
+
+
+briefly explain modular design pattern in python.
+
+just give me an overview about modular design patter in python. say shortly
+
+ans: -------------
+
+can you do thi?
+
+i am not comfortable with text. can you refer me some youtube videos.
+
